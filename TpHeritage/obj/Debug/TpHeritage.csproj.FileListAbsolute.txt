@@ -1,0 +1,2 @@
+C:\Users\lo\source\repos\TpAsp\TpHeritage\obj\Debug\TpHeritage.csprojAssemblyReference.cache
+C:\Users\lo\source\repos\TpAsp\TpHeritage\obj\Debug\TpHeritage.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\lo\source\repos\TpAsp\TpMod3\obj\Debug\TpMod3.csprojAssemblyReference.cache
+C:\Users\lo\source\repos\TpAsp\TpMod3\obj\Debug\TpMod3.csproj.CoreCompileInputs.cache
+C:\Users\lo\source\repos\TpAsp\TpMod3\bin\Debug\TpMod3.exe.config
+C:\Users\lo\source\repos\TpAsp\TpMod3\bin\Debug\TpMod3.exe
+C:\Users\lo\source\repos\TpAsp\TpMod3\bin\Debug\TpMod3.pdb
+C:\Users\lo\source\repos\TpAsp\TpMod3\obj\Debug\TpMod3.exe
+C:\Users\lo\source\repos\TpAsp\TpMod3\obj\Debug\TpMod3.pdb
